@@ -1,2 +1,2 @@
 # mi-portafolio
-Portafolio profesional de Cleyber García
+Portafolio profesional de Cleyber García.
